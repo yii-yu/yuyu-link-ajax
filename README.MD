@@ -67,7 +67,11 @@ https://cdn.rawgit.com/yii-yu/yuyu-link-ajax/9124cfa3/js/yuyu_link_ajax.js
 ,где класс fa-3x задает размер спиннера (fa-lg, fa-2x, fa-3x, fa-4x, fa-5x);
 
 ---
-Важно! в форме прописать onsubmit="return false;" <form ... onsubmit="return false;" ><form>
+Важно! 
+В форме прописать onsubmit="return false;"
+```html
+<form ... onsubmit="return false;" ><form>
+```
 ----
  
 Если в консоле ошибка типа "SyntaxError: Unexpected token # in JSON at position 0" - неправильный синтаксис атрибута data-json. Должно быть: data-json='{"":"","":""}'
