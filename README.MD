@@ -15,6 +15,8 @@ https://rawgit.com/yii-yu/yuyu-link-ajax/master/js/yuyu_link_ajax.js
 
 Ссылка production(текущая версия в дальнейшем не будет меняться):
 
+https://cdn.rawgit.com/yii-yu/yuyu-link-ajax/9124cfa3/js/yuyu_link_ajax.js
+
 Подключается на странице как обычный js файл, например:
 <script type="text/javascript" src="https://rawgit.com/yii-yu/yuyu-link-ajax/master/js/yuyu_link_ajax.js"></script>
 
